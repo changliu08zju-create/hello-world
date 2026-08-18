@@ -1,1 +1,5 @@
-print("Hello from GitHub")
+name = input("请输入你的名字：")
+age = input("请输入你的年龄：")
+print("你好，" + name + "！")
+print("你今年 " + age + " 岁。")
+print("欢迎来到 Python 世界！")
